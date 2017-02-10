@@ -728,7 +728,7 @@ propagated with or for interoperation with KNIME.
    </license>
 
    <plugin
-         id="ch.fmi.knime"
+         id="ch.fmi.knime.plugins"
          download-size="0"
          install-size="0"
          version="0.0.0"/>
