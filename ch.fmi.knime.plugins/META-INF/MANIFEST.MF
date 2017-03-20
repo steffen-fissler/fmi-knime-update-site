@@ -22,8 +22,7 @@ Require-Bundle: org.knime.base,
  imglib2-algorithm;bundle-version="0.6.1",
  imglib2-algorithm-fft;bundle-version="0.1.2",
  imglib2-algorithm-gpl;bundle-version="0.1.5",
- imglib2-ij;bundle-version="2.0.35",
- jdom2;bundle-version="2.0.6"
+ imglib2-ij;bundle-version="2.0.35"
 Bundle-RequiredExecutionEnvironment: JavaSE-1.8
 Bundle-ClassPath: fmiknime.jar,
  lib/AnalyzeSkeleton_-3.1.1.jar,
@@ -37,6 +36,7 @@ Bundle-ClassPath: fmiknime.jar,
  lib/Fiji_Plugins-3.1.0.jar,
  lib/formats-api-5.3.4.jar,
  lib/jgrapht-0.8.3.jar,
- lib/SPIM_Registration-5.0.10.jar
+ lib/SPIM_Registration-5.0.10.jar,
+ lib/jdom2-2.0.6.jar
 Bundle-ActivationPolicy: lazy
 
