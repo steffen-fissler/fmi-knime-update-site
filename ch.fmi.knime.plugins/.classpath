@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
+	<classpathentry exported="true" kind="lib" path="lib/TrackMate_-3.5.0.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/jdom2-2.0.6.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/SPIM_Registration-5.0.10.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/jgrapht-0.8.3.jar"/>
@@ -12,7 +13,6 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry exported="true" kind="lib" path="lib/AnalyzeSkeleton_-3.1.1.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/Descriptor_based_registration-2.1.1.jar"/>
-	<classpathentry exported="true" kind="lib" path="lib/TrackMate_-3.4.2.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/imglib.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/mpicbg-1.1.1.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/legacy-imglib1-1.1.6.jar"/>
