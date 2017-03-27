@@ -13,7 +13,6 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry exported="true" kind="lib" path="lib/AnalyzeSkeleton_-3.1.1.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/Descriptor_based_registration-2.1.1.jar"/>
-	<classpathentry exported="true" kind="lib" path="lib/imglib.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/mpicbg-1.1.1.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/legacy-imglib1-1.1.6.jar"/>
 	<classpathentry kind="output" path="bin"/>
