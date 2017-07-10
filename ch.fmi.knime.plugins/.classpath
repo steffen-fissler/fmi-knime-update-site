@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry exported="true" kind="lib" path="lib/fmi-ij2-plugins-0.1.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/fmi-ij2-plugins-0.1.6.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/TrackMate_-3.5.0.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/jdom2-2.0.6.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/SPIM_Registration-5.0.10.jar"/>
