@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry exported="true" kind="lib" path="lib/fmi-ij2-plugins-0.2.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/fmi-ij2-plugins-0.3.0.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/ij1-io-0.1.4.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/fmi-trackmate-addons-0.1.2.jar"/>
-	<classpathentry exported="true" kind="lib" path="lib/TrackMate_-3.5.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/TrackMate_-3.8.0.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/jdom2-2.0.6.jar"/>
-	<classpathentry exported="true" kind="lib" path="lib/SPIM_Registration-5.0.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/SPIM_Registration-5.0.19.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/MorphoLibJ_-1.3.6.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/jgrapht-0.8.3.jar"/>
-	<classpathentry exported="true" kind="lib" path="lib/formats-api-5.3.4.jar"/>
-	<classpathentry exported="true" kind="lib" path="lib/Fiji_Plugins-3.1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/formats-api-5.9.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/Fiji_Plugins-3.1.1.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry exported="true" kind="lib" path="lib/AnalyzeSkeleton_-3.1.1.jar"/>
-	<classpathentry exported="true" kind="lib" path="lib/Descriptor_based_registration-2.1.1.jar"/>
-	<classpathentry exported="true" kind="lib" path="lib/mpicbg-1.1.1.jar"/>
-	<classpathentry exported="true" kind="lib" path="lib/legacy-imglib1-1.1.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/AnalyzeSkeleton_-3.3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/Descriptor_based_registration-2.1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/mpicbg-1.2.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/legacy-imglib1-1.1.9.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
