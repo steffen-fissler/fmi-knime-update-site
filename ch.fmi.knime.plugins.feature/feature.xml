@@ -2,8 +2,8 @@
 <feature
       id="ch.fmi.knime.plugins.feature"
       label="FMI KNIME Plugins"
-      version="0.13.0.qualifier"
-      provider-name="FMI Basel">
+      version="0.14.0.qualifier"
+      provider-name="Friedrich Miescher Institute for Biomedical Research, Basel">
 
    <description>
       FMI KNIME Plugins
