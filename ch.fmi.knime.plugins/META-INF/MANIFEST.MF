@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-Name: FMI KNIME Plugins
 Bundle-SymbolicName: ch.fmi.knime.plugins;singleton:=true
 Bundle-ManifestVersion: 2
-Bundle-Version: 0.16.0.qualifier
+Bundle-Version: 0.17.0.qualifier
 Bundle-Vendor: Friedrich Miescher Institute for Biomedical Research, Basel
 Eclipse-RegisterBuddy: org.knime.core, org.knime.knip.imagej2.core
 Require-Bundle: org.knime.base;bundle-version="[3.0.0,5.0.0)",
@@ -25,18 +25,18 @@ Require-Bundle: org.knime.base;bundle-version="[3.0.0,5.0.0)",
  imglib2-ij;bundle-version="2.0.35",
  imagej-deprecated;bundle-version="0.1.1"
 Bundle-RequiredExecutionEnvironment: JavaSE-1.8
-Bundle-ClassPath: lib/AnalyzeSkeleton_-3.3.0.jar,
- lib/Descriptor_based_registration-2.1.2.jar,
+Bundle-ClassPath: lib/AnalyzeSkeleton_-3.4.1.jar,
+ lib/Descriptor_based_registration-2.1.7.jar,
  lib/Fiji_Plugins-3.1.1.jar,
  lib/formats-api-5.9.2.jar,
  lib/jama-1.0.3.jar,
  lib/jdom2-2.0.6.jar,
- lib/jgrapht-core-1.3.0.jar,
+ lib/jgrapht-core-1.4.0.jar,
  lib/legacy-imglib1-1.1.9.jar,
- lib/MorphoLibJ_-1.3.6.jar,
- lib/mpicbg-1.2.0.jar,
- lib/SPIM_Registration-5.0.19.jar,
- lib/TrackMate_-4.0.0.jar,
+ lib/MorphoLibJ_-1.4.2.1.jar,
+ lib/mpicbg-1.4.0.jar,
+ lib/SPIM_Registration-5.0.21.jar,
+ lib/TrackMate_-6.0.0.jar,
  lib/TrackMate_extras-0.0.4.jar,
  lib/fmi-trackmate-addons-0.1.2.jar,
  lib/ij1-io-0.1.4.jar,
