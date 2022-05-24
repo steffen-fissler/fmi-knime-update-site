@@ -2,7 +2,7 @@
 <feature
       id="ch.fmi.knime.plugins.update"
       label="FMI KNIME Plugins Update-Site"
-      version="0.19.1.qualifier">
+      version="0.20.0.qualifier">
 
    <includes
          id="ch.fmi.knime.plugins.feature"

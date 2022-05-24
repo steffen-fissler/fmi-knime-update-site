@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-Name: FMI KNIME Plugins
 Bundle-SymbolicName: ch.fmi.knime.plugins;singleton:=true
 Bundle-ManifestVersion: 2
-Bundle-Version: 0.19.1.qualifier
+Bundle-Version: 0.20.0.qualifier
 Bundle-Vendor: Friedrich Miescher Institute for Biomedical Research, Basel
 Eclipse-RegisterBuddy: org.knime.core, org.knime.knip.imagej2.core
 Require-Bundle: org.knime.base;bundle-version="[3.0.0,5.0.0)",
@@ -41,6 +41,7 @@ Bundle-ClassPath: lib/AnalyzeSkeleton_-3.4.1.jar,
  lib/TrackMate_extras-0.0.4.jar,
  lib/fmi-trackmate-addons-0.1.2.jar,
  lib/ij1-io-0.1.4.jar,
+ lib/faim-ij2-ij-0.0.5.jar,
  lib/fmi-ij2-plugins-0.8.1.jar
 Bundle-ActivationPolicy: lazy
 
