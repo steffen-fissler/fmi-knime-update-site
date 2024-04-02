@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature id="ch.fmi.knime.plugins.feature" version="0.0.0">
+       <category name="fmi-knime-update-site" />
+   </feature>
+
+   <category-def name="fmi-knime-update-site" label="Build artifacts from fmi-knime-update-site">
+       <description>Build artifacts from fmi-knime-update-site</description>
+   </category-def>
+</site>
