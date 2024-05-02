@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-Name: FMI KNIME Plugins
 Bundle-SymbolicName: ch.fmi.knime.plugins;singleton:=true
 Bundle-ManifestVersion: 2
-Bundle-Version: 0.21.0.qualifier
+Bundle-Version: 0.22.0.qualifier
 Bundle-Vendor: Friedrich Miescher Institute for Biomedical Research, Basel
 Eclipse-RegisterBuddy: org.knime.core, org.knime.knip.imagej2.core
 Require-Bundle: org.knime.base;bundle-version="[3.0.0,6.0.0)",
